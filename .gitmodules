@@ -1,0 +1,6 @@
+[submodule "proto-boilerplate"]
+	path = proto-boilerplate
+	url = git@github.com:awesome-linus/proto-boilerplate.git
+[submodule "submodules/proto-boilerplate"]
+	path = submodules/proto-boilerplate
+	url = git@github.com:awesome-linus/proto-boilerplate.git
